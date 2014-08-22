@@ -1,0 +1,30 @@
+bnj:
+        default_domain: http://www.bnj.com
+        domains:
+                - http://bnj.com
+                - http://www.bnj.com
+                - https://bnj.com
+                - https://www.bnj.com
+                - http://alexl.internal.bnj.net
+        sourcedir: bnj
+        fonts:
+                bnjsans-bold:
+                        eot: bnjsans-bold-webfont.eot
+                        svg: bnjsans-bold-webfont.svg
+                        ttf: bnjsans-bold-webfont.ttf
+                        woff: bnjsans-bold-webfont.woff
+                bnjsans-italic:
+                        eot: bnjsans-italic-webfont.eot
+                        svg: bnjsans-italic-webfont.svg
+                        ttf: bnjsans-italic-webfont.ttf
+                        woff: bnjsans-italic-webfont.woff
+                bnjsans-light:
+                        eot: bnjsans-light-webfont.eot
+                        svg: bnjsans-light-webfont.svg
+                        ttf: bnjsans-light-webfont.ttf
+                        woff: bnjsans-light-webfont.woff
+                bnjsans:
+                        eot: bnjsans-webfont.eot
+                        svg: bnjsans-webfont.svg
+                        ttf: bnjsans-webfont.ttf
+                        woff: bnjsans-webfont.woff
